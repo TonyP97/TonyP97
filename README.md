@@ -25,6 +25,16 @@ Tengo conocimientos y puedo trabajar con las siguientes tecnologías:
 <p>Con muchas ganas y muy dispuesto a seguir estudiando✍.</p>
 
 ---
+### Proyectos
+<h3>PFRestaurante</h3>
+<a style="margin-left: 10px;"  target="_blank" href="https://pf-kiliss.vercel.app/">
+<img src="https://github.com/ander0399/pfrestaurante/blob/main/client/src/assets/home/burger-header.png" height="200" width="200"></a>
+
+<h3>Countries App</h3>
+<a style="margin-left: 10px;"  target="_blank" href="https://pi-individual-countries.vercel.app//">
+<img src="https://raw.githubusercontent.com/TonyP97/pi-individual-countries/main/Home.png" height="300" width="400"></a>
+
+---
 ### :point_down: Si queres contactarme:
 -  📫 agustinpincheira97@gmail.com
 -  [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-pincheira-0549031b6/)
