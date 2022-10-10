@@ -29,7 +29,11 @@ Tengo conocimientos y puedo trabajar con las siguientes tecnologías:
 -  📫 agustinpincheira97@gmail.com
 -  [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-pincheira-0549031b6/)
 
+---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyp97&show_icons=true&theme=tokyonight)](https://github.com/tonyp97/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonyp97&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
