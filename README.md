@@ -28,7 +28,7 @@ Tengo conocimientos y puedo trabajar con las siguientes tecnologías:
 ### Proyectos
 <h3>PFRestaurante</h3>
 <a style="margin-left: 10px;"  target="_blank" href="https://pf-kiliss.vercel.app/">
-<img src="https://github.com/ander0399/pfrestaurante/blob/main/client/src/assets/home/burger-header.png" height="200" width="200"></a>
+<img src="https://raw.githubusercontent.com/TonyP97/PF/main/logo.png" height="200" width="200"></a>
 
 <h3>Countries App</h3>
 <a style="margin-left: 10px;"  target="_blank" href="https://pi-individual-countries.vercel.app//">
