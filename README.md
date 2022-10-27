@@ -37,6 +37,7 @@ Tengo conocimientos y puedo trabajar con las siguientes tecnologías:
 ---
 ### :point_down: Si queres contactarme:
 -  📫 agustinpincheira97@gmail.com
+-  [Portfolio](https://agustinpincheira.vercel.app/)
 -  [Linkedin](https://www.linkedin.com/in/agust%C3%ADn-pincheira-0549031b6/)
 
 ---
